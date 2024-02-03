@@ -56,7 +56,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'XLICON-V2'
-global.premium = 'true'
+global.premium = 'true 
 global.packname = 'XLICON-V2' 
 global.author = 'Made by SALMAN
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
